@@ -7,7 +7,7 @@ body {
 }
 
 .background-blur {
-    background-image: url("/IMG/easter-.jpg");
+    background-image: url("IMG/easter-.jpg");
     background-size: cover;
     background-position: center;
     filter: blur(8px);
